@@ -385,7 +385,7 @@
     },
     {
       "name": "flexport",
-      "description": "Connect your Flexport account to Grok to look up shipments, check rates, search your network, and book freight using natural language. Track ocean, air, and truck shipments with containers, customs holds, and demurrage/detention risk; search ports, HS codes, and addresses; and work with instant prices, quotes, and bookings.",
+      "description": "Connect your Flexport account directly to Grok to streamline logistics operations. Flexport MCP empowers your team to monitor active shipments, search live rates, execute bookings, and manage supply chain workflows using natural language. By bringing real-time freight visibility and operational capabilities directly to Grok, your team can make faster supply chain decisions, get instant answers, and manage global logistics effortlessly.",
       "category": "logistics",
       "source": {
         "type": "local",

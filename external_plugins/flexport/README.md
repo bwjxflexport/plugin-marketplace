@@ -122,8 +122,10 @@ policies of the services you use. Requests are rate limited per user and per cli
 
 - [Flexport](https://www.flexport.com)
 - [Flexport Privacy Policy](https://www.flexport.com/privacy/)
+- [Flexport Software Visibility Terms and Conditions](https://www.flexport.com/terms-and-conditions/software-visibility-terms-and-conditions/)
 - Support: contact your Flexport account team
 
 ## License
 
-Proprietary. Use of the hosted MCP is governed by Flexport's terms.
+Proprietary. Use of the hosted MCP is governed by Flexport's
+[Software Visibility Terms and Conditions](https://www.flexport.com/terms-and-conditions/software-visibility-terms-and-conditions/).
