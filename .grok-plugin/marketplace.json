@@ -382,6 +382,18 @@
       "homepage": "https://enrichlabs.ai",
       "keywords": ["helena", "enrich labs", "helena ai marketer", "helena marketing ai agent", "helena autonomous marketer", "helena marketing"],
       "domains": ["enrichlabs.ai", "agent.enrichlabs.ai"]
+    },
+    {
+      "name": "flexport",
+      "description": "Connect your Flexport account to Grok to look up shipments, check rates, search your network, and book freight using natural language. Track ocean, air, and truck shipments with containers, customs holds, and demurrage/detention risk; search ports, HS codes, and addresses; and work with instant prices, quotes, and bookings.",
+      "category": "logistics",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/flexport"
+      },
+      "homepage": "https://www.flexport.com",
+      "keywords": ["flexport", "flexport mcp", "flexport shipment tracking"],
+      "domains": ["flexport.com", "www.flexport.com", "app.flexport.com", "mcp.flexport.com"]
     }
   ]
 }
